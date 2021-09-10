@@ -1,0 +1,2 @@
+# aws-amplify-test
+test
